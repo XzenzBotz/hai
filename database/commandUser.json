@@ -1,0 +1,72 @@
+[
+  {
+    "jid": "628988986891@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 4
+      },
+      {
+        "nama": "#attp",
+        "count": 1
+      },
+      {
+        "nama": "#delete",
+        "count": 5
+      },
+      {
+        "nama": "#setfooter",
+        "count": 2
+      },
+      {
+        "nama": "#setfake",
+        "count": 2
+      },
+      {
+        "nama": "#meme1",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 3
+      },
+      {
+        "nama": "#donasi",
+        "count": 1
+      },
+      {
+        "nama": "#tiktok",
+        "count": 1
+      },
+      {
+        "nama": "#tiktoknowm",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "jid": "6283836185720@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#tahta",
+        "count": 1
+      },
+      {
+        "nama": "#attp",
+        "count": 1
+      },
+      {
+        "nama": "#menu",
+        "count": 4
+      },
+      {
+        "nama": "#meme1",
+        "count": 1
+      },
+      {
+        "nama": "#susunkata",
+        "count": 1
+      }
+    ]
+  }
+]

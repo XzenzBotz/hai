@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["62 83836185720@s.whatsapp.net"],
+  "ownerName": ["Vann Ganz"],
+  "botName": "Vannz Bot",
+  "buttonName": "My Github",
+  "buttonLink": "https://github/XzennzBotz",
+  "buttonName2": "Youtube",
+  "buttonLink": "https://youtube.com/channel/UCTan41uoODwP2uU0ORuoy3w",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
